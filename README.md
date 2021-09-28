@@ -287,7 +287,7 @@
 -------------------------aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 -------------------------aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(202.7908713, 48.01479723393, -580.39563291797)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(202.7902, 48.014792, -580.39562)
 wait(0.0)
 local plr = game.Players.LocalPlayer
 if plr:IsInGroup(12) then
